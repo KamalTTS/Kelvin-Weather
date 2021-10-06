@@ -1,7 +1,7 @@
 # Kelvin-Weather
 const kelvin = 293;
 // The value saved to kelvin will stay constant
-var celsius;
+let celsius;
 celsius = kelvin - 273;
 //Converting Kelvin to Celsius
 let fahrenheit;
